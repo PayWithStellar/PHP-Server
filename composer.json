@@ -1,0 +1,18 @@
+{
+    "name": "paywithstellar/php-server",
+    "description": "A PHP API for implementing a PayWithStellar check server",
+    "type": "library",
+    "license": "GPL v3.0",
+    "authors": [
+        {
+            "name": "Green Glider",
+            "email": "GreenGlider@reddit.com"
+        },
+	{
+	    "name": "Samuel Allan",
+	    "email": "naclo3samuel@gmail.com"
+	}
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
